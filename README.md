@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi, I'm Isabel Birds.
 
-<!--
-**IsabelBirds/IsabelBirds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![ORCid: IsabelBirds](https://img.shields.io/badge/ORCiD-Isabel%20Birds-green&)](https://orcid.org/0000-0001-8173-3879)
+[![Linkedin: IsabelBirds](https://img.shields.io/badge/-IsabelBirds-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isabel-birds-90ab05123/)](https://www.linkedin.com/in/isabel-birds-90ab05123/)
+[![Twitter: IzBirds](https://img.shields.io/twitter/follow/IzBirds?style=social)](https://twitter.com/IzBirds)
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a final year PhD candidate at the University of Leeds, working with genomic, transcriptomic and proteomic data.
+
+:computer: I’m currently on placement, working on the [DECOVID project](https://www.decovid.org/) as part of the University of Leeds team. 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelBirds&count_private=true&show_icons=true&theme=vue&hide_rank=TRUE)
