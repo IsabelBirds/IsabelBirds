@@ -6,8 +6,6 @@
 
 ### About me:
 
-I am a final year PhD candidate at the University of Leeds, working with genomic, transcriptomic and proteomic data.
-
-:computer: I’m currently on placement, working on the [DECOVID project](https://www.decovid.org/) as part of the University of Leeds team. 
+I am a final year PhD candidate at the University of Leeds, working with genomic, transcriptomic and proteomic data. 
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IsabelBirds&count_private=true&show_icons=true&theme=vue&hide_rank=TRUE)
